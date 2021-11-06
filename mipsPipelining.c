@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 int main(){
-
+    //declare variables 
     return 0;
 }
