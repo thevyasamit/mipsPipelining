@@ -6,6 +6,4 @@
 int main(){
     //declare variables 
     return 0;
-
-    //d
 }
